@@ -19,6 +19,9 @@ możliwości spotkania i wymiany wiedzy i umiejętności z innymi osobami o
 podobnych zainteresowaniach, aż do zniżek na imprezy organizowane przez PLUG,
 takie jak Jesień Linuxowa, PyCon, PHPCon i wiele innych.
 
+Jednakże, członkostwo w PLUG wiąże się ze składkami członkowskimi, które
+wynoszą 40zł rocznie, bądź 20zł rocznie dla studentów.
+
 Oferta o współtworzenie jest kierowana bardziej do członków koła indywidualnie
 aniżeli koła jako organizacji, a wynika to z faktu, że do PLUGu przystępuje się imiennie a
 nie organizacją. Dlatego byłbym wdzięczny za informację zwrotną, czy w Waszym
