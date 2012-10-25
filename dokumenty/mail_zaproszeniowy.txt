@@ -1,9 +1,9 @@
 Dzień dobry.
-Chciał serdecznie zaprosić do współpracy przy tworzeniu CLUGu - Krakowskiej
+Chciałbym serdecznie zaprosić do współpracy przy tworzeniu CLUGu - Krakowskiej
 Grupy Użytkowników Linuxa - oddziału terytorialnego PLUGu.
 
-CLUG zrzeszać będzie miłośników systemów GNU/Linux oraz tematów
-okołolinuxowych z terenu Krakowa i okolic.
+CLUG będzie zrzeszać miłośników GNU/Linux oraz tematów okołolinuxowych, którzy
+zamieszkują teren Krakowa i okolic.
 
 CLUG zrzesza wszystkich zainteresowanych, niezależnie od wieku, profesji czy
 statutu studenta, jednakże to zaproszenie kieruję głównie do kół naukowych,
@@ -11,7 +11,7 @@ gdyż w swoich szeregach zwykle mają wielu miłośników systemów GNU/Linux.
 
 Jednocześnie chciałbym wystąpić z zapytaniem czy Wasze koło byłoby chętne,
 aby wykłady prowadzone w ramach Waszego koła stały się otwarte dla osób
-niebędącymi członkami koła, oraz mogły być dodatkowo flagowane logiem CLUG i
+niebędącymi członkami koła oraz mogły być dodatkowo flagowane logiem CLUG i
 gromadzić członków tejże społeczności?
 
 Członkostwo w CLUG, a co za tym idzie w PLUG to również korzyści, począwszy od
@@ -22,9 +22,9 @@ takie jak Jesień Linuxowa, PyCon, PHPCon i wiele innych.
 Jednakże, członkostwo w PLUG wiąże się ze składkami członkowskimi, które
 wynoszą 40zł rocznie, bądź 20zł rocznie dla studentów.
 
-Oferta o współtworzenie jest kierowana bardziej do członków koła indywidualnie
+Oferta współtworzenia jest kierowana bardziej do członków koła indywidualnie
 aniżeli koła jako organizacji, a wynika to z faktu, że do PLUGu przystępuje się imiennie a
-nie organizacją. Dlatego byłbym wdzięczny za informację zwrotną, czy w Waszym
+nie organizacją. Dlatego byłbym wdzięczny za informację zwrotną czy w Waszym
 kole byłyby osoby chętne do współtworzenia CLUGu.
 
 Po więcej informacji zapraszam na nowo powstały kanał ircowy:
