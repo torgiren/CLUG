@@ -1,0 +1,36 @@
+Dzień dobry.
+Chciał serdecznie zaprosić do współpracy przy tworzeniu CLUGu - Krakowskiego
+Grupy Użytkowników Linuxa - oddziału terytorialnego PLUGu.
+
+CLUG zrzeszać będzie miłośników systemów GNU/Linux oraz tematów
+okołolinuxowych z terenu Krakowa i okolic.
+
+CLUG zrzesza wszystkich zainteresowanych, niezależnie od wieku, profesji czy
+statutu studenta, jednakże to zaproszenie kieruję głównie do kół naukowych,
+gdyż w swoich szeregach zwykle mają wielu miłośników systemów GNU/Linux.
+
+Jednocześnie chciałbym wystąpić z zapytaniem czy Wasze koło byłoby chętne,
+aby wykłady prowadzone w ramach Waszego koła stały się otwarte dla osób
+niebędącymi członkami koła, oraz mogły być dodatkowo flagowane logiem CLUG i
+gromadzić członków tejże społeczności?
+
+Członkostwo w CLUG, a co za tym idzie w PLUG to również korzyści, począwszy od
+możliwości spotkania i wymiany wiedzy i umiejętności z innymi osobami o
+podobnych zainteresowaniach, aż do zniżek na imprezy organizowane przez PLUG,
+takie jak Jesień Linuxowa, PyCon, PHPCon i wiele innych.
+
+Oferta o współtworzenie jest kierowana bardziej do członków koła indywidualnie
+aniżeli jako koło, a wynika to z faktu, że do PLUGu przystępuje się imiennie a
+nie organizacją. Dlatego byłbym wdzięczny za informację zwrotną, czy w Waszym
+kole byłyby osoby chętne do współtworzenia CLUGu.
+
+Po więcej informacji zapraszam na nowopowstały kanał ircowy:
+#clug-pl at irc.freenode.net
+bądź mailowo do mnie:
+torgiren@gmail.com
+
+Serdecznie zapraszam do współpracy
+
+--
+Marcin TORGiren Fabrykowski
+KNI Kernel
