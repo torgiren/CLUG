@@ -6,7 +6,7 @@ PK:
 	KN Informatyki Stosowanej i Robotyki
 		bialas@pk.edu.pl
 	KN Inzynierii Oprogramowania
-		pzabawa@pk.edu.pl
+		pzabawa@pk.edu.pl -- Współpraca komercyjna :D
 	KN IT
 		knit@knit.pk.edu.pl -- Delivery Failure
 	KN Zastosowań Informatyki
@@ -40,3 +40,8 @@ UEk:
 UP:
 	Koło Naukowe Informatyków
 		
+UJ:
+	Slimak
+		patryk.jaworski@ii.uj.edu.pl
+	Koło Studentów Informatyki
+		zarzad@ksi.ii.uj.edu.pl
