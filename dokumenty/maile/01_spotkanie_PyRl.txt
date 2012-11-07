@@ -1,0 +1,21 @@
+Chciałbym serdecznie zaprosić na spotkanie CLUG.
+Odbędzie się ono w sobotę, 10 listopada w kawiarni Róg Brackiej i
+Reformackiej, ul. Reformacka 3 w Krakowie, o godzinie 19.
+Przewidywany program spotkania:
+-Poznanie podstaw Pythona
+-Poznanie podstaw Perla
+-Ustalenie ciekawego problemu
+-Rozwiązanie problemu przy pomocy Pythona
+-Rozwiązanie problemu przy pomocy Perla
+
+Dodatkowe informacje można znaleźć na facebookowej stronie wydarzenia:
+www.facebook.com/events/385346001541751/
+na facebookowej stronie CLUG:
+www.facebook.com/CLUGpl
+oraz na naszym kanale ircowym:
+#clug-pl at freenode.net
+
+Serdecznie zapraszam
+
+--
+Marcin TORGiren Fabrykowski
