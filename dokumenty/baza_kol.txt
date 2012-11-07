@@ -6,9 +6,9 @@ PK:
 	KN Informatyki Stosowanej i Robotyki
 		bialas@pk.edu.pl
 	KN Inzynierii Oprogramowania
-		pzabawa@pk.edu.pl -- Współpraca komercyjna :D
+		pzabawa@pk.edu.pl	Współpraca komercyjna :D
 	KN IT
-		knit@knit.pk.edu.pl -- Delivery Failure
+		knit@knit.pk.edu.pl	Delivery Failure
 	KN Zastosowań Informatyki
 		kolo@L5.pk.edu.pl
 	KN Grafiki Komputerowej i Modelowania
@@ -36,7 +36,7 @@ AGH:
 		janusz.opila@gmail.com
 UEk:
 	Koło Naukowe Informatyki
-		kni@rkn.ae.krakow.pl -- Delivery Failure
+		kni@rkn.ae.krakow.pl	Delivery Failure
 UP:
 	Koło Naukowe Informatyków
 		
