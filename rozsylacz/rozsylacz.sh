@@ -17,8 +17,9 @@ else
 fi
 echo "Temat: "$1
 echo "Treść: "$2
+mutt -s "$1" torgiren@gmail.com < $2
 for x in `grep @ ./../dokumenty/baza_kol.txt|cut -f 3`
 do
 	echo "wysylam do:" $x
-#	mutt -s "$1" $x < $2
+	mutt -s "$1" $x < $2
 done
