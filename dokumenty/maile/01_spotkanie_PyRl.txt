@@ -1,6 +1,6 @@
 Chciałbym serdecznie zaprosić na spotkanie CLUG.
 Odbędzie się ono w sobotę, 10 listopada w kawiarni Róg Brackiej i
-Reformackiej, ul. Reformacja 3 w Krakowie, o godzinie 19.
+Reformackiej, ul. Reformacka 3 w Krakowie, o godzinie 19.
 Przewidywany program spotkania:
 -Poznanie podstaw Pythona
 -Poznanie podstaw Perla
