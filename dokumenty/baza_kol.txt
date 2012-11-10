@@ -34,6 +34,7 @@ AGH:
 		janusz.opila@gmail.com
 UP:
 	Koło Naukowe Informatyków
+		koloinformatykow@gmail.com
 		
 UJ:
 	Slimak

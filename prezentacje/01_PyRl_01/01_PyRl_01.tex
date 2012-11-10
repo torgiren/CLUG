@@ -1,0 +1,190 @@
+\documentclass[10pt]{beamer}
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{verbatim}
+\usepackage{listings}
+\author{Marcin TORGiren Fabrykowski}
+\institute{AGH - University of Science and Technology}
+\title{PyRl - podstawy Pythona}
+\usetheme{Warsaw}
+\lstset{language=Python}
+\begin{document}
+\begin{frame}
+	\titlepage
+\end{frame}
+\section{Podstawy składni}
+\subsection{Pierwsze kroki}
+\begin{frame}[fragile]
+	\frametitle{Podstawy składni}
+	\begin{block}<1->
+		{Pierwszy program}
+		\begin{lstlisting}[language=Python]
+			print "Hello world"
+		\end{lstlisting}
+	\end{block}
+	\begin{block}<2->
+		{Drugi program}
+		\begin{lstlisting}[language=Python]
+			name=raw_input("Jak sie nazywasz? ")
+			print "Witaj",name,"!"
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\begin{frame}[fragile]
+	\begin{block}
+		{Plik wykonywalny}
+		\begin{lstlisting}[language=Python]
+			#!/usr/bin/env python
+			print "Hello World"
+		\end{lstlisting}
+	\end{block}
+	\begin{block}
+		{pamiętamy o uprawnieniach}
+		\begin{lstlisting}[language=bash]
+		chmod +x hello.py
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\subsection{Trochę o zmiennych}
+\begin{frame}[fragile]
+	\frametitle{Trochę o zmiennych}	
+	\begin{block}
+		{typy zmiennych}
+		\begin{lstlisting}
+		x="Python"
+		print x
+		x=10
+		print x
+		x=x*2
+		print x
+		\end{lstlisting}
+	\end{block}
+	\begin{block}
+		{ciekawostka}
+		\begin{lstlisting}
+		x="haha "
+		x*=5
+		print x
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\subsection{Funkcje, pętle, ify}
+\begin{frame}[fragile]
+	\frametitle{Funkcje, pętle, ify}
+	\begin{block}
+		{Przykład funkcji}
+		\begin{lstlisting}
+			def Dzielniki(liczba):
+			    if liczba<=1:
+			        return "Podaj liczbe wieksza od 1"
+			    for i in range(1,int(math.sqrt(liczba)+1)):
+			        if not liczba%i:
+			            print i
+			            print liczba/i
+			print Dzielniki(90)
+			print Dzielniki(-10)
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\section{Kontenery}
+\subsection{Listy}
+\begin{frame}[fragile]
+	\frametitle{Listy}
+	\begin{block}
+		{Lista}
+		\begin{lstlisting}
+linux=['Getnoo','Debian','Vista']
+print linux
+linux.append('Red Hat')
+print linux
+linux.remove('Vista')
+for i in linux:
+    print "Znam ",i
+linux.append('Slackware')
+if 'Slackware' in linux:
+    print "Znam rowniez Slackware"
+if 'Ubuntu' in linux:
+    print "Znam Ubuntu"
+else:
+    print "Nie znam Ubuntu"
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\begin{frame}[fragile]
+	\frametitle{Listy}
+	\begin{block}<1->
+		{Mamy 2 listy}
+		\begin{lstlisting}
+		x=['raz','dwa','trzy']
+		y=['cztery','piec','szesc']
+		\end{lstlisting}
+	\end{block}
+	\begin{block}<2->
+		{Dodawanie list - append}
+		\begin{lstlisting}
+		x.append(y)
+		print x
+		\end{lstlisting}
+		\uncover<3->{ŹLE!!!}
+	\end{block}
+	\begin{block}<4->
+		{Dodawanie list - extend}
+		\begin{lstlisting}
+		x.extend(y)
+		print x
+		\end{lstlisting}
+		\uncover<5->{DOBRZE!!!}
+	\end{block}
+\end{frame}
+\subsection{Krotki}
+\begin{frame}[fragile]
+	\frametitle{Krotki}
+	\begin{block}
+		{Krotka}
+		\begin{lstlisting}
+		x=('1','2','3',4,5,6)
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\subsection{Słowniki}
+\begin{frame}[fragile]
+	\frametitle{Słowniki}
+	\begin{block}
+		{Słownik}
+		\begin{lstlisting}
+		x={'pies':'dog','dom':'house','okno':'window'}
+		print x
+		print x['pies']
+		#print x['dog']
+		print x.items()
+		for (k,j) in x.items():
+			print 'Polskie:",k," - angielskie:",j
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\section{Klasy}
+\subsection{Pierwsza klasa}
+\begin{frame}[fragile]
+	\frametitle{Klasy}
+	\begin{block}
+		{Pierwsza klasa}
+		\begin{lstlisting}
+		class Zwierze:
+		    def __init__(self):
+		        self.imie='Benek'
+		    def PiszImie(self):
+		        print self.imie
+		class Pies(Zwierze):
+		    def DajGlos(self):
+		        print "woof woof"
+		a=Zwierze()
+		a.PiszImie()
+		#a.DajGlos()
+		b=Pies()
+		b.PiszImie()
+		b.DajGlos()
+		\end{lstlisting}
+	\end{block}
+\end{frame}
+\end{document}
+
