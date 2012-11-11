@@ -13,6 +13,8 @@ PK:
 		fabis@mech.pk.edu.pl
 	KN Programistów i Miłośników Informatyki
 		pmpietra@mech.pk.edu.pl
+	IT Security Group
+		b3niup+pkitsec@gmail.com
 AGH:
 	KN GEOS INFORMATICA
 		informatica@student.agh.edu.pl
