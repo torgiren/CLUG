@@ -24,8 +24,6 @@ AGH:
 		jdurak@metal.agh.edu.pl
 	BIT
 		drezew@agh.edu.pl
-	Sieci
-		wwa@ia.agh.edu.pl
 	Sztucznej Inteligencji”Noesis”
 		mgajer@ia.agh.edu.pl
 	KN Glider
