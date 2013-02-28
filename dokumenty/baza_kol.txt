@@ -43,3 +43,6 @@ UJ:
 		patryk.jaworski@ii.uj.edu.pl
 	Koło Studentów Informatyki
 		zarzad@ksi.ii.uj.edu.pl
+Inne:
+	Noc informatyka
+		noc@up.krakow.pl
