@@ -39,5 +39,6 @@ UP:
 UJ:
 	Slimak
 		patryk.jaworski@ii.uj.edu.pl
+		slimakuj@gmail.com
 	Koło Studentów Informatyki
 		zarzad@ksi.ii.uj.edu.pl
