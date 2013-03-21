@@ -1,0 +1,42 @@
+%%
+%% This is file `list.sty',
+%% 
+%% Copyright (C) 2011 by Krzysztof Krakowski.
+%% 
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License
+%%
+%% version 1.0.0
+%% 
+\NeedsTeXFormat{LaTeX2e}[1996/12/01]
+\ProvidesPackage{list}[2011/08/30 v1 modifies `letter.sty' to suit polish template]
+%%
+\brokenpenalty=1000
+\clubpenalty=1000
+\widowpenalty=1000
+\renewcommand*{\opening}[1]{\ifx\@empty\fromaddress
+  \thispagestyle{firstpage}%
+    {\raggedleft\@date\par}%
+  \else  % home address
+    \thispagestyle{empty}%
+    {\raggedleft\@date\\*[2\parskip]\par}%
+    {\raggedright\begin{tabular}{l@{}}\ignorespaces
+      \fromaddress\\*[2\parskip]%
+      \end{tabular}\par}%
+  \fi
+  \vspace{1\parskip}%
+  {\raggedleft\bf \toname \\ \toaddress \par}%
+  \vspace{2\parskip}%
+  #1\par\nobreak}
+\renewcommand{\closing}[1]{\par\nobreak\vspace{2\parskip}%
+  \stopbreaks
+  \noindent
+  \ifx\@empty\fromaddress\else
+  \hspace*{\fill}\fi
+  \parbox{\indentedwidth}{\raggedleft
+       \ignorespaces #1\\[.8\medskipamount]%
+       \ifx\@empty\fromsig
+           \fromname
+       \else \fromsig \fi\strut}%
+   \par}
+%%
